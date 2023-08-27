@@ -15,7 +15,7 @@ Link: https://www.youtube.com/watch?v=pdYTtbOl9YQ <br>
 ### App Preview
  
 <p align="center">
-<img src="" width="210" height="430" /> 
+<img src="https://github.com/kadm91/assets/blob/main/fastingTimer.gif" width="210" height="430" /> 
 </p>
 
 
