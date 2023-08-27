@@ -8,9 +8,9 @@ App Learned Concepts:
 - Calendar
 - Timer Publisher
 
-App Tutorial By: Dara To
-from: DesignCode Team
-Link: https://www.youtube.com/watch?v=pdYTtbOl9YQ
+App Tutorial By: Dara To <br>
+from: DesignCode Team <br>
+Link: https://www.youtube.com/watch?v=pdYTtbOl9YQ <br>
 
 ### App Preview
  
